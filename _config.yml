@@ -1,0 +1,23 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: caminodelnorte
+layout_spectrum: 0.5863623633049428
+typography_spectrum: 0.11114708357490599
+color:
+  brandStrength: 0.1060217556077987
+  lightness: 0.5363201177679002
+  saturation: 0.8051667995750904
+  rhythmicContrast: 0.19176254025660455
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+content: []
+github: true
